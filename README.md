@@ -9,14 +9,12 @@ The dataset used for this dashboard contains information about different Netflix
 - `show_id`: Unique identifier for each show.
 - `type`: Type of the show (Movie or TV Show).
 - `title`: Title of the show.
-- ...
 
 ## Features
 
 - **Data Exploration**: Visualize the distribution of shows based on their types (movies vs. TV shows).
 - **Release Year Analysis**: Understand the distribution of shows by release year.
 - **Country Insights**: Explore the countries that produce the most content on Netflix.
-- ...
 
 ## Getting Started
 
