@@ -25,7 +25,7 @@ The dataset used for this dashboard contains information about different Netflix
 
 ## Screenshot
 
-![Screenshot 1]([screenshots/screenshot1.png](https://github.com/atandrit/HomePriceXpert/assets/91213354/c1ee1713-cb9e-4403-91b4-4306cd68cb12))
+![Screenshot 1](https://github.com/atandrit/HomePriceXpert/assets/91213354/c1ee1713-cb9e-4403-91b4-4306cd68cb12)
 
 ## Tableau Public Link
 
